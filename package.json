@@ -1,0 +1,15 @@
+{
+  "name": "osactivity",
+  "version": "0.0.0",
+  "description": "find the open source activity of members in a github org",
+  "main": "activity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.27.0"
+  }
+}
